@@ -1,0 +1,23 @@
+# Dependencies
+node_modules/
+
+# Environment variables and passwords
+.env
+.env.*
+
+# Keep example environment files
+!.env.example
+
+# Logs
+*.log
+
+# Build folders
+dist/
+build/
+
+# VS Code settings
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
